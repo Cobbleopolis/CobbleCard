@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CobbleCard</string>
+    <string name="service_name">CobbleCard</string>
+    <string name="card_name">KSU ID Card</string>
 </resources>
