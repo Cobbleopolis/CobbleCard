@@ -22,7 +22,7 @@
         dispatch).
     -->
 
-    <aid-group android:description="@string/card_title" android:category="other">
+    <aid-group android:description="@string/card_name" android:category="other">
         <aid-filter android:name="D2760000850100"/>
     </aid-group>
 </host-apdu-service>
